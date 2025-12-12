@@ -1,0 +1,481 @@
+[
+    {
+        "roster": {
+            "Team1": [
+                {
+                    "name": "Player A",
+                    "team": "Team1",
+                    "number": 1,
+                    "starter": true
+                },
+                {
+                    "name": "Player B",
+                    "team": "Team1",
+                    "number": 5,
+                    "starter": true
+                }
+            ]
+        },
+        "player_stats": {
+            "Player A": {
+                "FT_Attempted": 0,
+                "2P_Attempted": 0,
+                "3P_Attempted": 0,
+                "Points": 0
+            },
+            "Player B": {
+                "FT_Attempted": 0,
+                "2P_Attempted": 0,
+                "3P_Attempted": 0,
+                "Points": 0
+            }
+        },
+        "team_score": {
+            "Team1": 0,
+            "Team2": 0
+        },
+        "team1_team_rebounds": {
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0
+        },
+        "team2_generic_stats": {
+            "Points": 0,
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0,
+            "Assists": 0,
+            "Steals": 0,
+            "Blocks": 0,
+            "Turnovers": 0,
+            "Fouls": 0,
+            "FT_Attempted": 0,
+            "2P_Attempted": 0,
+            "3P_Attempted": 0
+        },
+        "current_quarter": "Q1",
+        "quarterly_scores": {
+            "Q1": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q2": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q3": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q4": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            }
+        },
+        "next_ot_num": 1
+    },
+    {
+        "roster": {
+            "Team1": [
+                {
+                    "name": "Player A",
+                    "team": "Team1",
+                    "number": 1,
+                    "starter": true
+                },
+                {
+                    "name": "Player B",
+                    "team": "Team1",
+                    "number": 5,
+                    "starter": true
+                }
+            ]
+        },
+        "player_stats": {
+            "Player A": {
+                "FT_Attempted": 0,
+                "2P_Attempted": 0,
+                "3P_Attempted": 0,
+                "Points": 0
+            },
+            "Player B": {
+                "FT_Attempted": 0,
+                "2P_Attempted": 0,
+                "3P_Attempted": 0,
+                "Points": 0
+            }
+        },
+        "team_score": {
+            "Team1": 0,
+            "Team2": 0
+        },
+        "team1_team_rebounds": {
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0
+        },
+        "team2_generic_stats": {
+            "Points": 0,
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0,
+            "Assists": 0,
+            "Steals": 0,
+            "Blocks": 0,
+            "Turnovers": 0,
+            "Fouls": 0,
+            "FT_Attempted": 0,
+            "2P_Attempted": 0,
+            "3P_Attempted": 0
+        },
+        "current_quarter": "Q2",
+        "quarterly_scores": {
+            "Q1": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q2": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q3": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q4": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            }
+        },
+        "next_ot_num": 1
+    },
+    {
+        "roster": {
+            "Team1": [
+                {
+                    "name": "Player A",
+                    "team": "Team1",
+                    "number": 1,
+                    "starter": true
+                },
+                {
+                    "name": "Player B",
+                    "team": "Team1",
+                    "number": 5,
+                    "starter": true
+                }
+            ]
+        },
+        "player_stats": {
+            "Player A": {
+                "FT_Attempted": 0,
+                "2P_Attempted": 0,
+                "3P_Attempted": 0,
+                "Points": 0
+            },
+            "Player B": {
+                "FT_Attempted": 0,
+                "2P_Attempted": 0,
+                "3P_Attempted": 0,
+                "Points": 0
+            }
+        },
+        "team_score": {
+            "Team1": 0,
+            "Team2": 0
+        },
+        "team1_team_rebounds": {
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0
+        },
+        "team2_generic_stats": {
+            "Points": 0,
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0,
+            "Assists": 0,
+            "Steals": 0,
+            "Blocks": 0,
+            "Turnovers": 0,
+            "Fouls": 0,
+            "FT_Attempted": 0,
+            "2P_Attempted": 0,
+            "3P_Attempted": 0
+        },
+        "current_quarter": "Q1",
+        "quarterly_scores": {
+            "Q1": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q2": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q3": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q4": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            }
+        },
+        "next_ot_num": 1
+    },
+    {
+        "roster": {
+            "Team1": [
+                {
+                    "name": "Player B",
+                    "team": "Team1",
+                    "number": 5,
+                    "starter": true
+                }
+            ]
+        },
+        "player_stats": {
+            "Player B": {
+                "FT_Attempted": 0,
+                "2P_Attempted": 0,
+                "3P_Attempted": 0,
+                "Points": 0
+            }
+        },
+        "team_score": {
+            "Team1": 0,
+            "Team2": 0
+        },
+        "team1_team_rebounds": {
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0
+        },
+        "team2_generic_stats": {
+            "Points": 0,
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0,
+            "Assists": 0,
+            "Steals": 0,
+            "Blocks": 0,
+            "Turnovers": 0,
+            "Fouls": 0,
+            "FT_Attempted": 0,
+            "2P_Attempted": 0,
+            "3P_Attempted": 0
+        },
+        "current_quarter": "Q1",
+        "quarterly_scores": {
+            "Q1": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q2": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q3": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q4": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            }
+        },
+        "next_ot_num": 1
+    },
+    {
+        "roster": {
+            "Team1": []
+        },
+        "player_stats": {},
+        "team_score": {
+            "Team1": 0,
+            "Team2": 0
+        },
+        "team1_team_rebounds": {
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0
+        },
+        "team2_generic_stats": {
+            "Points": 0,
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0,
+            "Assists": 0,
+            "Steals": 0,
+            "Blocks": 0,
+            "Turnovers": 0,
+            "Fouls": 0,
+            "FT_Attempted": 0,
+            "2P_Attempted": 0,
+            "3P_Attempted": 0
+        },
+        "current_quarter": "Q1",
+        "quarterly_scores": {
+            "Q1": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q2": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q3": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q4": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            }
+        },
+        "next_ot_num": 1
+    },
+    {
+        "roster": {
+            "Team1": []
+        },
+        "player_stats": {},
+        "team_score": {
+            "Team1": 0,
+            "Team2": 1
+        },
+        "team1_team_rebounds": {
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0
+        },
+        "team2_generic_stats": {
+            "Points": 1,
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0,
+            "Assists": 0,
+            "Steals": 0,
+            "Blocks": 0,
+            "Turnovers": 0,
+            "Fouls": 0,
+            "FT_Attempted": 1,
+            "2P_Attempted": 0,
+            "3P_Attempted": 0,
+            "FT_Made": 1
+        },
+        "current_quarter": "Q1",
+        "quarterly_scores": {
+            "Q1": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q2": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q3": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q4": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            }
+        },
+        "next_ot_num": 1
+    },
+    {
+        "roster": {
+            "Team1": []
+        },
+        "player_stats": {},
+        "team_score": {
+            "Team1": 0,
+            "Team2": 1
+        },
+        "team1_team_rebounds": {
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0
+        },
+        "team2_generic_stats": {
+            "Points": 1,
+            "Off_Rebounds": 0,
+            "Def_Rebounds": 0,
+            "Assists": 0,
+            "Steals": 0,
+            "Blocks": 0,
+            "Turnovers": 0,
+            "Fouls": 0,
+            "FT_Attempted": 2,
+            "2P_Attempted": 0,
+            "3P_Attempted": 0,
+            "FT_Made": 1
+        },
+        "current_quarter": "Q1",
+        "quarterly_scores": {
+            "Q1": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q2": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q3": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            },
+            "Q4": {
+                "Team1": 0,
+                "Team2": 0,
+                "Cumulative1": 0,
+                "Cumulative2": 0
+            }
+        },
+        "next_ot_num": 1
+    }
+]
